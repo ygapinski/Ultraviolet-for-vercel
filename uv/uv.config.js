@@ -1,7 +1,7 @@
 
 self.__uv$config = {
     prefix: '/service/',
-    bare: 'https://benroberts.net',
+    bare: 'https://driver61.com',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
